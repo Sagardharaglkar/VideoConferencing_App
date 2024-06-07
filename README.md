@@ -34,7 +34,7 @@ To get a local copy up and running follow these simple steps.
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/yourusername/videoconferencingapp.git
+    https://github.com/Sagardharaglkar/VideoConferencing_App.git
     ```
 
 2. **Navigate to the project directory**
